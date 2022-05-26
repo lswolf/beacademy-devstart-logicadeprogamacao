@@ -5,7 +5,7 @@ exercicios do modulo de logica de programação feitos em C!!!
 
 - [@lswolf](https://github.com/lswolf) Lucas R da Silva
 
-[Exercicio 1](./exercicio 1.txt)
+[Exercicio 1](,/exercicio 1.txt)
 [Exercicio 2](./exercicio 2.c)
 [Exercicio 3](./exercicio 3.c)
 [Exercicio 4](./exercicio 4.c)
